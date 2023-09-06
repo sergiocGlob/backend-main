@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2NS44XY28S.com.globant.meteor3.nutriconnect",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

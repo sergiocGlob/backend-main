@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.abbott.ani.nutriconnect",
+    "sha256_cert_fingerprints":
+    [
+      "F9:C4:40:9B:2B:78:D6:4B:1A:A6:E4:70:12:18:EF:53:0D:96:A2:59:B5:D2:4A:11:BD:92:DA:4A:B5:06:AC:98"
+    ]
+  }
+}]
