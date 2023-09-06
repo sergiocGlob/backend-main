@@ -12,8 +12,8 @@ types.setTypeParser(1114, function(stringValue){
 });
 
 const databaseConfig = {
-    'host': 'laundrybackdb.czobnltzc13r.us-east-1.rds.amazonaws.com',
-    // 'host': '127.0.0.1',
+    //'host': 'laundrybackdb.czobnltzc13r.us-east-1.rds.amazonaws.com',
+    'host': '127.0.0.1',
     'port': 5432,
     'database': 'laundrybackdb',
     'user': 'postgres',
