@@ -60,9 +60,15 @@ esp8266 (app);
 //     console.log('Aplicacion de  NodeJS ' + ' Iniciado...')
 //     console.log('que te dices')
 /// });192.168.39.111
+//server.listen(350,'back', function(){
+//    const port = server.address().port;
+ //   console.log(port)
+//    console.log('Aplicacion de  NodeJS ' + port + ' Iniciado...')
+//    console.log(__dirname)
+//});
 
 
-server.listen(350,'back', function(){
+server.listen('back', function(){
     const port = server.address().port;
     console.log(port)
     console.log('Aplicacion de  NodeJS ' + port + ' Iniciado...')
